@@ -11,7 +11,7 @@ The task at hand is to train a Pix2Pix GAN that can generate a comic book style 
 
 ### Dataset
 
-The [dataset](https://www.kaggle.com/code/nathannguyendev/face2comic) used for training consists of pairs of images: real-life photographs of faces and their corresponding hand-drawn comic book style counterparts. The dataset is carefully curated to ensure a diverse range of faces, expressions, and angles, allowing the model to learn a robust and generalizable representation of comic art style.
+The [dataset](https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic) used for training consists of pairs of images: real-life photographs of faces and their corresponding hand-drawn comic book style counterparts. The dataset is carefully curated to ensure a diverse range of faces, expressions, and angles, allowing the model to learn a robust and generalizable representation of comic art style.
 
 ### Model Architecture
 
