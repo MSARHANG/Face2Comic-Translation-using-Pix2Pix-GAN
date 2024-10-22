@@ -26,7 +26,4 @@ During training, the generator aims to fool the discriminator by generating real
 
 Input(Real Photographies)                     |  GroundTruth Label            |   Generated Comic Faces
 :----------------------------------:|:-------------------------:|:----------------------------
-![](https://github.com/user-attachments/assets/37f68c30-2a6c-4d48-b784-cb4f87893e99)
-|![](https://github.com/user-attachments/assets/5f409860-e9fd-411e-a5bd-ef9983e8c3f9)
-|![](https://github.com/user-attachments/assets/81b0287d-846a-4cc4-bc93-5bfae186308a)
-
+![](https://github.com/user-attachments/assets/37f68c30-2a6c-4d48-b784-cb4f87893e99) |![](https://github.com/user-attachments/assets/5f409860-e9fd-411e-a5bd-ef9983e8c3f9) |![](https://github.com/user-attachments/assets/81b0287d-846a-4cc4-bc93-5bfae186308a)
